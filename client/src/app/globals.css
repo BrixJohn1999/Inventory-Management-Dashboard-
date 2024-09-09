@@ -14,7 +14,9 @@ body,
 .app {
   height: 100%;
   width: 100%;
-  @apply text-sm;
+  @apply text-lg;
   @apply bg-gray-500;
   @apply text-gray-900;
 }
+
+
